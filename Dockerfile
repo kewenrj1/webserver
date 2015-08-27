@@ -1,6 +1,6 @@
 FROM ubuntu:14.04
 MAINTAINER Rickie Kewene <kewenrj1@student.op.ac.nz>
-ENV REFRESHED_AT 2015-08-10
+ENV REFRESHED_AT 2015-08-27
 
 RUN apt-get -yqq update
 RUN apt-get -yqq install apache2
